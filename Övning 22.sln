@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Övning 22", "..\..\..\..\..\Projects\Övning 22\", "{E8BFF8E0-16B5-48CA-AD65-758C57DB765A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51006"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Projects\Övning 22\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51006\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51006"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Projects\Övning 22\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51006\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51006"
+		SlnRelativePath = "..\..\..\..\..\Projects\Övning 22\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8BFF8E0-16B5-48CA-AD65-758C57DB765A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BFF8E0-16B5-48CA-AD65-758C57DB765A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B70788A4-0AD9-4B63-A080-928DD9E308AC}
+	EndGlobalSection
+EndGlobal
