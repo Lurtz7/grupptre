@@ -12,6 +12,8 @@
     $("#myTableBody").append("<tr>"+"<td>" + obj.Firstname + "</td>" + "<td>" + obj.Lastname + "</td>" + "<td>" + obj.SSN + "</td>" + "<td>" + obj.Age + "</td>" + "<td>" + obj.Sex + "</td>" + "</tr>" );
     //}
 
+    //ksdfnig
+
 
 
 $("#Add").click(function myFunction() {
